@@ -23,7 +23,9 @@ Though, we do recommend:
 
 ## Specifications
 
-On [this Figma](https://www.figma.com/file/YwteE14GzkoCSYXvw4CGXT/University-Grades-SBT) there is in detail all of the screens designs. Have in mind that one thing that we check is the ability of developing precisely upon design specifications. The specifications are organized by application screens, each one with its designs and functionalities.
+On [this Figma](https://www.figma.com/file/YwteE14GzkoCSYXvw4CGXT/University-Grades-SBT) there is in detail all of the screens designs. Have in mind that one thing that we check is the ability of developing precisely upon design specifications. The specifications are organized by application screens, each one with its designs and functionalities.  
+
+In the folder `media/` your gonna find all the static files you need.
 
 1. Login with your wallet
   <img src="media/Screens/login.jpg" height=400, width=600>
