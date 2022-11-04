@@ -6,7 +6,7 @@ This repository includes the specifications for developing the take-home project
 
 # Instructions
 - Fork this repository on your own Github profile
-- Follow the project [specifications](Specifications) 
+- Follow the project [specifications](#specs) 
 - Send us the result! 🔥
 
 # Project
@@ -21,7 +21,7 @@ Though, we do recommend:
 
 `There will be no penalties for using any other modern frameworks`
 
-## Specifications
+## [Specifications][specs]
 
 On [this Figma](https://www.figma.com/file/YwteE14GzkoCSYXvw4CGXT/University-Grades-SBT) there is in detail all of the screens designs. Have in mind that one thing that we check is the ability of developing precisely upon design specifications. The specifications are organized by application screens, each one with its designs and functionalities.  
 
@@ -38,9 +38,8 @@ In the folder `media/` your gonna find all the static files you need.
   <img src="media/Screens/choose-university.jpg" height=400, width=600>  
   
   The user will be able to choose between different universities that are **provided from the backend**. Each one will contain a unique secret key that will permit later minting degrees SBTs.  
-  You will be responsible of generating this universities on the DB. We recommend to atleast generate 10.  
-  Feel free of searching the university pictures on the internet.   
-  Have in count that there can be numerous universities so the endpoint that provides them should have in count some sort of pagination to avoid serializing enourmous quantities of data.  
+  You will be responsible of generating this universities on the DB.  
+  Feel free of searching the university pictures on the internet.
 
 3. Fill your personal information
   <img src="media/Screens/fill-information.jpg" height=400, width=600> 
