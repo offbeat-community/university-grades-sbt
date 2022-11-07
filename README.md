@@ -21,7 +21,7 @@ Though, we do recommend:
 
 `There will be no penalties for using any other modern frameworks`
 
-## [Specifications][specs]
+## [Specifications](#specs)
 
 On [this Figma](https://www.figma.com/file/YwteE14GzkoCSYXvw4CGXT/University-Grades-SBT) there is in detail all of the screens designs. Have in mind that one thing that we check is the ability of developing precisely upon design specifications. The specifications are organized by application screens, each one with its designs and functionalities.  
 
